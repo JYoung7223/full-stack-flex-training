@@ -18,7 +18,13 @@ h1{
 }
 .float-left{
     float:left;
+}
+img{
     height: 200px;
+}
+.card img{
+    height: 275px;
+    width: 100%;
 }
 footer{
     border-top:var(--primary-color) 20px;
