@@ -40,5 +40,9 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+## Result
+
+* Resulting site can be found at: https://jyoung7223.github.io/full-stack-flex-training/hw1_justin_young/
+
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

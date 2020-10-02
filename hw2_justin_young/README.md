@@ -86,7 +86,9 @@ You are required to submit the following:
 
 ## Results
 
-Below are some screenshots of the finished product:
+* Finished Website can be found at: https://jyoung7223.github.io/full-stack-flex-training/hw2_justin_young/
+
+* Below are some screenshots of the finished product:
 
 ![](./Assets/Images/index.png)
 
